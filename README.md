@@ -19,3 +19,12 @@ This project was built as part of a 7-day React learning roadmap.
 - LocalStorage for data persistence
 
 ## 📂 Project Structure
+src/
+├── components/
+│   ├── TaskForm.js
+│   ├── TaskList.js
+│   ├── FilterBar.js
+│   └── SortBar.js
+├── App.js
+├── App.css
+└── index.js
